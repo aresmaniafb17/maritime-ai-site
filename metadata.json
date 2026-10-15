@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris AI Suite",
+  "description": "Showcase, licensing portal, and compliance hub for enterprise-grade AI applications built with Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
